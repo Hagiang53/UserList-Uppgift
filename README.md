@@ -11,8 +11,9 @@ This is a simple console application written in Java for managing a list of user
 ## How to run the code
 
 1. Pull the code from Github
-2. Open the project in Intellij IDEA
-3. Run `main` class to execute the application.
+2. Se till att du har Java JDK installerat på din Linux-dator.
+3. Open the project in Intellij IDEA
+4. Run `main` class to execute the application.
 
 ## Project structure
 
