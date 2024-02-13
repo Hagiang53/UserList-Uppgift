@@ -5,7 +5,6 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
 
         // Skapa en UserList för att hantera användare.
         UserList userList = new UserList();
